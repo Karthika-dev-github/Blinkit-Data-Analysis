@@ -1,8 +1,6 @@
 # Blinkit-Data-Analysis
 Data analysis project using Python and visualization libraries to analyze Blinkit sales data.
 
-# Blinkit Data Analysis Project
-
 ## Overview
 This project analyzes Blinkit sales data using Python to identify trends, patterns, and business insights.
 
